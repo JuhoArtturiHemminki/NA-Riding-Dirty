@@ -1,0 +1,78 @@
+==============================================================================
+PROPRIETARY SPECIFICATION AND SOURCE CODE LICENSE: NA RIDING DIRTY
+==============================================================================
+
+PROJECT IDENTIFIER: NA Riding Dirty
+SYSTEM TYPE: Ultra-High-Velocity Coaxial Plasma Rail System & Powertrain Matrix
+COPYRIGHT OWNER: Juho Artturi Hemminki
+CONTACT EMAIL: projectflagcarrier@gmail.com
+
+Copyright (c) 2026 Juho Artturi Hemminki. All rights reserved.
+
+------------------------------------------------------------------------------
+1. DEFINITIONS
+------------------------------------------------------------------------------
+"Licensed Material" refers to all text, data, mathematical models, physics
+equations, architectural blueprints, structural concepts, and C++ source code
+contained within the "NA Riding Dirty" engineering documentation.
+
+"Author" refers to the copyright owner, Juho Artturi Hemminki.
+
+"Recipient" refers to any individual, entity, or automated parser accessing,
+reading, or processing the Licensed Material.
+
+------------------------------------------------------------------------------
+2. INTELLECTUAL PROPERTY & PATENT CLAIMS
+------------------------------------------------------------------------------
+The Author explicitly claims exclusive intellectual property and proprietary
+rights over the following technological innovations detailed in the Work:
+
+(a) The unique dual-phase powertrain separation framework (Keula Group vs.
+Cabin Group coordination).
+(b) The dynamic coaxial magnetic plasma line geometry utilizing localized
+cold-plasma boundary layers for shear reduction.
+(c) High-frequency flux compressor coupling mechanisms built for V12
+powerplants operating up to 22,000 RPM.
+(d) The deterministic C++ state engine executing the 'PERFORMANCE_LAUNCH'
+and 'QUIET_CRUISE' transition subroutines.
+
+------------------------------------------------------------------------------
+3. PERMITTED USE AND RESTRICTIONS
+------------------------------------------------------------------------------
+Subject to the terms of this License, the Recipient is granted a non-exclusive,
+non-transferable, revocable license to view, analyze, and review the Licensed
+Material strictly for educational, review, and personal evaluation purposes.
+
+The Recipient SHALL NOT:
+(a) Copy, redistribute, publish, or sublicense the Licensed Material or any
+derivative works thereof without explicit prior written consent from the
+Author.
+(b) Utilize the mathematical models, C++ architecture, or engineering
+blueprints to build, simulate, or deploy any physical or digital
+transit infrastructure.
+(c) Reverse-engineer or extract compiled logic elements for commercial gain.
+
+------------------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTY AND LIABILITY
+------------------------------------------------------------------------------
+THE LICENSED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED MATERIAL
+OR THE USE OR OTHER DEALINGS IN THE LICENSED MATERIAL.
+
+------------------------------------------------------------------------------
+5. COMMERCIAL INQUIRIES & LICENSING REQUESTS
+------------------------------------------------------------------------------
+Any commercial utilization, production, hardware integration, architectural
+implementation, or route feasibility deployments concerning the "NA Riding Dirty"
+corridor matrix requires a formal negotiated Commercial License Agreement.
+
+For all commercial inquiries, formal business proposals, or authorization
+requests, contact the Author directly via the official project channel:
+
+Contact Email: projectflagcarrier@gmail.com
+==============================================================================
